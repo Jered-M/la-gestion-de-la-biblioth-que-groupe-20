@@ -1,0 +1,27 @@
+
+
+---------------------------------------BIBIOTHEQUE-----------------------------------------------
+
+                  menbre du groupe:
+                  -----------------  LENGE LUBANDA IGNACE A5
+                                     LOMBE NYEMBO GRACE A5
+                                     LUMBWE MINONO JERED A5
+                                     MACHING KAVOT DANIEL A5
+
+
+
+
+Description : 
+----------- Nous avons choisi la gestion de bibiotheque ce projet nous a aider a biens apprendre 
+et a repoucer nos limite.
+
+je vous donne une petite detail de notre projet. On a vous changer un peut les choses ajouter de petite
+fonctionnalité qui nous semnlait un peu important 
+
+vous allez retrouver sur notre projet 6 fonctionnalité que le suivente:
+                                                                  -1. Ajouter les livre 
+                                                                  -2. Emprunt des livre
+                                                                  - Retourner les livres 
+                                                                  -3. Penaliter pour le retards de retour des                                                                    livre
+                                                                  -4. Reservation des livres
+                                                                  -5. L'affichage de liste des livres
